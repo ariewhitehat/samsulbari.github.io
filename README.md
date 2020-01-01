@@ -1,5 +1,5 @@
 # samsulbari.github.io
-This is the front-end code structure for creating the official website https://www.samsulbari.github.io
+This is the front-end code structure for creating the official website https://www.samsulbari.my.id
 
 ## CREDIT
 ### Cascading Style Sheet(CSS)
